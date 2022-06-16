@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "M145prot",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "M145_proteome_StrepDB_20180208.fasta",
+  "number-of-letters": 2557546,
+  "number-of-sequences": 7749,
+  "last-updated": "2022-06-16T13:54:00",
+  "number-of-volumes": 1,
+  "bytes-total": 4551390,
+  "bytes-to-cache": 2627412,
+  "files": [
+    "M145prot.pdb",
+    "M145prot.phr",
+    "M145prot.pin",
+    "M145prot.pot",
+    "M145prot.psq",
+    "M145prot.ptf",
+    "M145prot.pto"
+  ]
+}
